@@ -49,7 +49,7 @@ from tensorflow import keras
 
 from keras_cv.src.api_export import keras_cv_export
 
-VOC_URL = "https://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar"  # noqa: E501
+VOC_URL = "http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar"  # noqa: E501
 
 """
 @InProceedings{{BharathICCV2011,
